@@ -34,7 +34,7 @@ The objective of this analysis is to gain insights into job postings on LinkedIn
 
 - **HR Professionals:** Benchmark recruitment practices and enhance understanding of market dynamics to attract top talent and address skill shortages effectively.
 
-# Dataset Description
+# Dataset Summary
 | **Column Name**                   | **Description**                                                                                 |
 |-----------------------------------|-------------------------------------------------------------------------------------------------|
 | **Unnamed: 0**                    | Index of the row in the dataset.                                                                |
